@@ -7,7 +7,7 @@ Here's a sample of the "Deliver Quietly" notification:
 
 ![alt text][logo1]
 
-[logo1]: http://iosbrain.com/blog/wp-content/uploads/2018/07/Keep-Notifs.gif "Deliver Quietly"
+[logo1]: http://netwmd.com/images/Deliver-Prov-Notifs.gif "Deliver Quietly"
 
 ## Xcode 9 project settings
 **To get this project running on the Simulator or a physical device (iPhone, iPad)**, go to the following locations in Xcode and make the suggested changes:
