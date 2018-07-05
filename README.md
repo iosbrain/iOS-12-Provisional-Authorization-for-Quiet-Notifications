@@ -9,7 +9,7 @@ Here's a sample of the "Deliver Quietly" notification:
 
 [logo1]: http://iosbrain.com/wp-content/uploads/2018/07/Deliver_Quietly-583x1024.png "Deliver Quietly"
 
-## Xcode 9 project settings
+## Xcode 10 beta 2 project settings
 **To get this project running on the Simulator or a physical device (iPhone, iPad)**, go to the following locations in Xcode and make the suggested changes:
 
 1. Project Navigator -> [Project Name] -> Targets List -> TARGETS -> [Target Name] -> General -> Signing
