@@ -9,6 +9,10 @@ Here's a sample of the "Deliver Quietly" notification:
 
 [logo1]: http://iosbrain.com/blog/wp-content/uploads/2018/07/Deliver-Prov-Notifs.gif "Deliver Quietly"
 
+![alt text][logo2]
+
+[logo2]: http://iosbrain.com/blog/wp-content/uploads/2018/05/app_in_action_1.gif "Messier browser app"
+
 ## Xcode 9 project settings
 **To get this project running on the Simulator or a physical device (iPhone, iPad)**, go to the following locations in Xcode and make the suggested changes:
 
